@@ -2,6 +2,10 @@
 
 I’m a full-stack software developer based in the UK. I like to build things.
 
+Right now, I’m really into Web Components, API design, and React. Most recently, I wrote about [richer API documentation](https://davidgoss.co/blog/api-documentation-redoc-docusaurus/). There are [other posts](https://davidgoss.co/blog) too.
+
+In open source world, I’m a regular contributor to [cucumber-js](https://github.com/cucumber/cucumber-js), a maintainer of [liquibase-linter](https://github.com/whiteclarkegroup/liquibase-linter) and generally get involved wherever else I can.
+
 <!--
 **davidjgoss/davidjgoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
