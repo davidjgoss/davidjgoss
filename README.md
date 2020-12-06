@@ -1,7 +1,6 @@
-<header style="background-color:rgb(0, 210, 225)">
-  <h2>Hello.</h2>
-</header>
+### Hello
 
+I’m a full-stack software developer based in the UK. I like to build things.
 
 <!--
 **davidjgoss/davidjgoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
